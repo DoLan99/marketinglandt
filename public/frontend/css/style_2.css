@@ -1,0 +1,22 @@
+/*
+Theme Name:		 Landio Child
+Theme URI:		 http://brisk.uicore.co/
+Description:	 Child theme for Landio - Elementor Multi-Purpose WordPress Theme
+Author:			   UiCore
+Author URI:		 https://uicore.co
+Template:		   landio
+Version:		   1.0.0
+Text Domain:	 landio
+*/
+
+
+/*
+    Add your custom styles here
+*/
+
+.uicore-navbar nav.uicore .uicore-simple-megamenu ul.sub-menu:not(.uicore-megamenu) {
+  padding: 42px 0;
+  left: 0;
+  right: 0;
+  justify-content: center;
+}
